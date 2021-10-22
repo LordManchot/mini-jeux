@@ -1,2 +1,2 @@
 # mini-games
-some mini games in python maybe for a discord bot
+Quelques mini-jeux qui vont servir, peut-être pour un bot Discord... je sais pas.
